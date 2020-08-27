@@ -1,4 +1,0 @@
-Move the files "upload" and into your /bin/
-sudo chmod +x /bin/upload
-
-Syntax: upload -help
