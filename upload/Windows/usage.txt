@@ -1,4 +1,0 @@
-Move the files "upload.bat" and "download.bat" into your C:\Users\???\
-
-Syntax: upload -help
-Syntax: download -help
