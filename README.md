@@ -3,13 +3,22 @@ a really simple upload/download tool for windows-cmd and a really simple upload 
 In the Windows folder there is also a download.bat file because in contrast to linux, as far as I know, no download tool is preinstalled
 ## Usage:
 ### Linux:
-#### test
+#### Upload:
 ```
 upload [path to file] [filename]
 ```
-
+#### Download:
 ```
-
+sudo wget [URL to file]
+```
+### Windows:
+#### Upload:
+```
+upload [path to file] [filename]
+```
+#### Download:
+```
+download [URL to file] [filename to save as]
 ```
 ## Linux setup:
 ```
