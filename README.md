@@ -41,7 +41,7 @@ sudo wget https://github.com/kordexjan/upload-tool-Linux/archive/master.zip -P /
 ```
 
 ```
-sudo unzip /bin/master.zip
+sudo unzip /bin/master.zip ; sudo rm master.zip
 ```
 
 ```
