@@ -23,9 +23,8 @@ sudo cp upload /bin/
 sudo chmod +x /bin/upload
 ```
 ## Windows setup:
-```
 Download the [zip file](https://github.com/kordexjan/upload-tool-windows/archive/master.zip)
+extract it to C:\Users\???\
 ```
-```
-
+copy C:\Users\???\
 ```
