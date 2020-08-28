@@ -1,7 +1,16 @@
 # upload tool
 a really simple upload/download tool for windows-cmd and a really simple upload tool for linux-bash
 In the Windows folder there is also a download.bat file because in contrast to linux, as far as I know, no download tool is preinstalled
-### test
+## Usage:
+### Linux:
+#### test
+```
+upload [path to file] [filename]
+```
+
+```
+
+```
 ## Linux setup:
 ```
 sudo wget https://github.com/kordexjan/upload-tool-Linux/archive/master.zip -P /bin/
