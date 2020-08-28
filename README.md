@@ -45,7 +45,7 @@ sudo unzip /bin/master.zip ; sudo rm master.zip
 ```
 
 ```
-sudo cp /bin/upload-tool-Linux-master/upload /bin/
+sudo cp /bin/upload-tool-Linux-master/upload /bin/ ; sudo rm -r upload-tool-Linux-master
 ```
 
 ```
