@@ -41,19 +41,11 @@ sudo wget https://github.com/kordexjan/upload-tool-Linux/archive/master.zip -P /
 ```
 
 ```
-cd /bin/
+sudo unzip /bin/master.zip
 ```
 
 ```
-sudo unzip master.zip
-```
-
-```
-cd upload-tool-Linux-master/
-```
-
-```
-sudo cp upload /bin/
+sudo cp /bin/upload-tool-Linux-master/upload /bin/
 ```
 
 ```
